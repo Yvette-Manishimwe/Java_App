@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "userName": "puceaux",
+  "userFirstName": "Precieux",
+  "userLastName": "Mugisha",
+  "email": null,
+  "userPassword": "$2a$10$nnSAq3QTCN0.xV6C.OReweISa85XeSbPF/m9QyfntXv0uMcJHQJZa",
+  "roles": [
+    {
+      "id": 1,
+      "roleName": "ADMIN",
+      "roleDescription": "ADMIN"
+    }
+  ]
+}

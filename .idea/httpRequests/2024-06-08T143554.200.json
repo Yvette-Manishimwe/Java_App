@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "userName": "yvette",
+  "userFirstName": "Yvette",
+  "userLastName": "Manishimwe",
+  "email": null,
+  "userPassword": "1234567890",
+  "roles": [
+    {
+      "id": 1,
+      "roleName": "ADMIN",
+      "roleDescription": "ADMIN"
+    }
+  ]
+}

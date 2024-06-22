@@ -1,0 +1,596 @@
+POST http://localhost:8090/users/generateToken
+Content-Type: application/json
+Content-Length: 56
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username":"rca@gmail.com",
+  "password":"rca@123"
+}
+
+<> 2024-06-15T233507.200.txt
+
+###
+
+POST http://localhost:8090/users/addNewUser
+Content-Type: application/json
+Content-Length: 122
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "RCA",
+  "email":"rca@gmail.com",
+  "password":"rca@123",
+  "roles":"ROLE_USER , ROLE_ADMIN , ROLE_MANAGER"
+}
+
+<> 2024-06-15T233449.200.txt
+
+###
+
+POST http://localhost:8090/users/generateToken
+Content-Type: application/json
+Content-Length: 53
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email":"rca@gmail.com",
+  "password":"rca@123"
+}
+
+###
+
+POST http://localhost:8090/users/generateToken
+Content-Type: application/json
+Content-Length: 53
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email":"rca@gmail.com",
+  "password":"rca@123"
+}
+
+###
+
+POST http://localhost:8090/users/generateToken
+Content-Type: application/json
+Content-Length: 56
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username":"rca@gmail.com",
+  "password":"rca@123"
+}
+
+###
+
+POST http://localhost:8090/users/addNewUser
+Content-Type: application/json
+Content-Length: 122
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "RCA",
+  "email":"rca@gmail.com",
+  "password":"rca@123",
+  "roles":"ROLE_USER , ROLE_ADMIN , ROLE_MANAGER"
+}
+
+<> 2024-06-15T232956.200.txt
+
+###
+
+POST http://localhost:8090/users/generateToken
+Content-Type: application/json
+Content-Length: 53
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email":"rca@gmail.com",
+  "password":"rca@123"
+}
+
+###
+
+POST http://localhost:8090/users/addNewUser
+Content-Type: application/json
+Content-Length: 122
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "RCA",
+  "email":"rca@gmail.com",
+  "password":"rca@123",
+  "roles":"ROLE_USER , ROLE_ADMIN , ROLE_MANAGER"
+}
+
+<> 2024-06-15T231434.200.txt
+
+###
+
+POST http://localhost:8090/users/generateToken
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "niyeden250@gmail.com",
+  "password": "hello@world"
+}
+
+###
+
+POST http://localhost:8090/users/addNewUser
+Content-Type: application/json
+Content-Length: 110
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Eden",
+  "email": "niyeden250@gmail.com",
+  "password": "hello@world",
+  "roles": "ROLE_ADMIN "
+}
+
+<> 2024-06-15T230036.200.txt
+
+###
+
+POST http://localhost:8090/users/generateToken
+Content-Type: application/json
+Content-Length: 64
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "yvette2@gmail.com",
+  "password": "yvette123"
+}
+
+###
+
+POST http://localhost:8090/users/generateToken
+Content-Type: application/json
+Content-Length: 64
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "yvette2@gmail.com",
+  "password": "yvette123"
+}
+
+###
+
+POST http://localhost:8090/users/generateToken
+Content-Type: application/json
+Content-Length: 64
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "yvette2@gmail.com",
+  "password": "yvette123"
+}
+
+###
+
+POST http://localhost:8090/users/generateToken
+Content-Type: application/json
+Content-Length: 68
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "niyeden250@gmail.com",
+  "password": "helloworld"
+}
+
+###
+
+POST http://localhost:8090/users/addNewUser
+Content-Type: application/json
+Content-Length: 139
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "yvette",
+  "email": "niyeden250@gmail.com",
+  "password": "helloworld",
+  "roles": "ROLE_ADMIN ",
+  "student": []
+}
+
+<> 2024-06-15T001022.200.txt
+
+###
+
+POST http://localhost:8090/users/addNewUser
+Content-Type: application/json
+Content-Length: 139
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "yvette",
+  "email": "niyeden250@gmail.com",
+  "password": "helloworld",
+  "roles": "ROLE_ADMIN ",
+  "student": []
+}
+
+<> 2024-06-15T001011.200.txt
+
+###
+
+POST http://localhost:8090/users/addNewUser
+Content-Type: application/json
+Content-Length: 162
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "RCA",
+  "email": "niyeden250@gmail.com",
+  "password": "helloworld",
+  "roles": "ROLE_ADMIN , ROLE_MANAGER , ROLE_USER",
+  "student": []
+}
+
+<> 2024-06-15T000946.200.txt
+
+###
+
+GET http://localhost:8090/users/welcome
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-06-15T000816.200.txt
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+Content-Type: application/json
+Content-Length: 153
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"userName":"puceaux",
+"userFirstName":"Precieux",
+"userLastName":"Mugisha",
+"email":"Mugishap@gmail.com",
+"userPassword":"1234567890",
+"role":"ADMIN"
+}
+
+<> 2024-06-08T144027.200.json
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+Content-Type: application/json
+Content-Length: 153
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"userName":"puceaux",
+"userFirstName":"Precieux",
+"userLastName":"Mugisha",
+"email":"Mugishap@gmail.com",
+"userPassword":"1234567890",
+"role":"ADMIN"
+}
+
+<> 2024-06-08T143941.200.json
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+Content-Type: application/json
+Content-Length: 149
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"userName":"yvet",
+"userFirstName":"Yvette",
+"userLastName":"Manishimwe",
+"email":"yvette@gmail.com",
+"userPassword":"1234567890",
+"role":"ADMIN"
+}
+
+<> 2024-06-08T143829.200.json
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+Content-Type: application/json
+Content-Length: 151
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"userName":"yvette",
+"userFirstName":"Yvette",
+"userLastName":"Manishimwe",
+"email":"yvette@gmail.com",
+"userPassword":"1234567890",
+"role":"ADMIN"
+}
+
+<> 2024-06-08T143554.200.json
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+{:
+"Content-Type": "application/json"
+}:
+Content-Length: 151
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"userName":"yvette",
+"userFirstName":"Yvette",
+"userLastName":"Manishimwe",
+"email":"yvette@gmail.com",
+"userPassword":"1234567890",
+"role":"ADMIN"
+}
+
+<> 2024-06-08T143355.400.html
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+Content-Length: 151
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"userName":"yvette",
+"userFirstName":"Yvette",
+"userLastName":"Manishimwe",
+"email":"yvette@gmail.com",
+"userPassword":"1234567890",
+"role":"ADMIN"
+}
+
+<> 2024-06-08T143236.415.json
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+Content-Length: 151
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"userName":"yvette",
+"userFirstName":"Yvette",
+"userLastName":"Manishimwe",
+"email":"yvette@gmail.com",
+"userPassword":"1234567890",
+"role":"ADMIN"
+}
+
+<> 2024-06-08T143216.415.json
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+Content-Length: 151
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"userName":"yvette",
+"userFirstName":"Yvette",
+"userLastName":"Manishimwe",
+"email":"yvette@gmail.com",
+"userPassword":"1234567890",
+"role":"ADMIN"
+}
+
+<> 2024-06-08T142958.415.json
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+Content-Length: 151
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"userName":"yvette",
+"userFirstName":"Yvette",
+"userLastName":"Manishimwe",
+"email":"yvette@gmail.com",
+"userPassword":"1234567890",
+"role":"ADMIN"
+}
+
+<> 2024-06-08T142759.415.json
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+{:
+"Content-Type": "application/json"
+}:
+Content-Length: 151
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"userName":"yvette",
+"userFirstName":"Yvette",
+"userLastName":"Manishimwe",
+"email":"yvette@gmail.com",
+"userPassword":"1234567890",
+"role":"ADMIN"
+}
+
+<> 2024-06-08T142744.400.html
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+{:
+Content-Type: "application/json"
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-06-08T142722.400.html
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+{:
+"Content-Type": "application/json"
+}:
+Content-Length: 152
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"userName":"yvette";
+"userFirstName":"Yvette";
+"userLastName":"Manishimwe";
+"email":"yvette@gmail.com";
+"userPassword":"1234567890";
+"role":"ADMIN";
+}
+
+<> 2024-06-08T142331.400.html
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+Content-Length: 153
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=7E7847DCB14510ADA4F7AD8155D827ED
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+
+"userName":"yvette";
+"userFirstName":"Yvette";
+"userLastName":"Manishimwe";
+"email":"yvette@gmail.com";
+"userPassword":"1234567890";
+"role":"ADMIN";
+}
+
+<> 2024-06-08T142146.415.json
+
+###
+
+POST http://localhost:8090/api/v1/users/registerNewUser
+Content-Length: 153
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+
+"userName":"yvette";
+"userFirstName":"Yvette";
+"userLastName":"Manishimwe";
+"email":"yvette@gmail.com";
+"userPassword":"1234567890";
+"role":"ADMIN";
+}
+
+###
+
